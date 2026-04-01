@@ -1,4 +1,4 @@
-# ¡Buenos días estrellitas, la Tierra les dice hola!
+# Buenos días, estrellitas. ¡La Tierra les dice "Hola"!
 
 Esta mi presentación para la materia, espero les guste.
 
