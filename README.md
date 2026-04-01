@@ -17,7 +17,7 @@ Tengo uno llamado Teo y, aunque está viejito, tiene mucha vitalidad.
 Acá se los muestro:
 
 <p align="center">
-  <img src="fotoTeo" alt="Mi pichicho" width="300">
+  <img src="fotoTeo.jpeg" alt="Mi pichicho" width="300">
 </p>
 
 ## Curiosidad:
